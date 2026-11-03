@@ -36,12 +36,12 @@ To develop a desktop-based password management application while gaining practic
 
 # 📚 What I Learned
 
-Building desktop applications using Java Swing
+- Building desktop applications using Java Swing
 
-Applying OOP principles
+- Applying OOP principles
 
-Implementing password hashing and encryption
+- Implementing password hashing and encryption
 
-Managing files and application data
+- Managing files and application data
 
-Organizing code using a layered architecture
+- Organizing code using a layered architecture
