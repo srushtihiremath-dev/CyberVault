@@ -1,6 +1,6 @@
 CyberVault is a Java-based desktop password manager developed using Java Swing. It provides a user-friendly graphical interface for securely managing passwords and credentials. The application demonstrates practical implementation of Object-Oriented Programming, password hashing, AES-GCM encryption, file handling, and Java Cryptography Architecture.
 
-✨ Key Features
+# ✨ Key Features
 
 1. Master password authentication
 
@@ -14,7 +14,7 @@ CyberVault is a Java-based desktop password manager developed using Java Swing. 
 
 6. Local vault file storage
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Java 17+
 
@@ -30,11 +30,11 @@ CyberVault is a Java-based desktop password manager developed using Java Swing. 
 
 - Java Collections
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 To develop a desktop-based password management application while gaining practical experience in Java GUI development, Object-Oriented Programming, file handling, and fundamental cybersecurity concepts.
 
-📚 What I Learned
+# 📚 What I Learned
 
 Building desktop applications using Java Swing
 
